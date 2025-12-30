@@ -1,0 +1,7 @@
+{
+  "name": "Hábito Secreto",
+  "description": "Uma plataforma de gamificação social para construção de hábitos onde você treina com um parceiro anônimo por 30 dias até a grande revelação.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
